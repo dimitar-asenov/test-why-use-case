@@ -1,0 +1,19 @@
+0 Method {f163748d-8e92-42d4-aeb8-4546f1b2d8f6} {a7d96cd1-e4c4-47cd-b34a-f68cc32bf665}
+	_ext_Position_x Integer {e84130f2-cb8e-4911-acb8-5c74d0860062} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}. I_0
+	_ext_Position_y Integer {45e311ad-dedd-41c7-97f1-6782b6183199} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}. I_0
+	annotations StatementItemList {1d0081eb-eb18-4a5d-975b-cb772fb31832} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	arguments TypedListOfFormalArgument {aa3aa5f0-a3a3-4b0d-8156-150bdc08ce77} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	items StatementItemList {6b61dc03-48ba-4450-9406-74a4827e5111} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	memberInitializers TypedListOfMemberInitializer {d643d405-49bb-4065-908a-7e7162afa156} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	metaCalls TypedListOfExpression {adf8e2aa-5254-49ce-a20d-e93c264d93ee} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	modifiers Modifier {db3b7087-31de-4045-9470-010e1704a5b0} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}. I_0
+	mthKind Integer {8b10d2fb-0a8c-4316-9d77-d3d9f9fa0c5f} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}. I_0
+	name NameText {694a0772-fe38-4627-823e-240020313c92} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}. S_detach
+	results TypedListOfFormalResult {39d8b8ed-4816-4f0f-b4a9-85434288ae65} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+		0 FormalResult {603bc556-c509-44fc-a63e-702cbf019602} {39d8b8ed-4816-4f0f-b4a9-85434288ae65}
+			name NameText {51e3b6a9-3df9-46c6-b0cc-326310de53b1} {603bc556-c509-44fc-a63e-702cbf019602}. S_
+			typeExpression PrimitiveTypeExpression {ba183758-9316-4c4b-ba84-651599820379} {603bc556-c509-44fc-a63e-702cbf019602}
+				val Integer {b2deb3cc-dd55-4161-97a9-6f66aa504ad6} {ba183758-9316-4c4b-ba84-651599820379}. I_8
+	subDeclarations TypedListOfDeclaration {777b488c-2020-4481-8a94-aeb344328243} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	throws TypedListOfExpression {5898553e-30f1-4c67-9039-4e8203b990dd} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	typeArguments TypedListOfFormalTypeArgument {cd1d4ded-08b4-441f-844e-4a0dbd33d65d} {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}

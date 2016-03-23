@@ -1,0 +1,55 @@
+1 Class {03c7e220-0eaa-41c2-a871-2d45b186a376} {1bcb0908-f641-498d-a4d2-07958e4ced5c}
+	_ext_Position_x Integer {8cbaa8e3-bb29-4251-b019-4e5b81be3d5f} {03c7e220-0eaa-41c2-a871-2d45b186a376}. I_0
+	_ext_Position_y Integer {a5b01670-2bc9-46c9-b343-2c335ae4cc16} {03c7e220-0eaa-41c2-a871-2d45b186a376}. I_1
+	annotations StatementItemList {f7dd4591-d4d1-4816-8b7f-9a0314a91463} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	baseClasses TypedListOfExpression {93099a59-65a6-4327-986d-8c50b0407689} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	cKind Integer {d9b56b1d-2a0f-4e44-95c8-d3f65e30c248} {03c7e220-0eaa-41c2-a871-2d45b186a376}. I_0
+	classes TypedListOfClass {7fc373c1-4e48-45a6-b9ca-85aee3b650f8} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	enumerators TypedListOfEnumerator {5d82e3f2-b51e-4836-a1e6-6d41d6171d16} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	fields TypedListOfField {4c4359b1-f277-4156-89e4-375309580ab7} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	friends TypedListOfDeclaration {8bdb0430-7e20-4492-903d-f86c41e6aaf7} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	metaCalls TypedListOfExpression {cf3309d0-442d-4e1f-9873-8478d25f6b39} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+	methods TypedListOfMethod {a7d96cd1-e4c4-47cd-b34a-f68cc32bf665} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+		0 persistencenewunit {f163748d-8e92-42d4-aeb8-4546f1b2d8f6} {a7d96cd1-e4c4-47cd-b34a-f68cc32bf665}. S_ItemData/detach {f163748d-8e92-42d4-aeb8-4546f1b2d8f6}
+	modifiers Modifier {9ad084a3-2017-4de4-83b6-ac60997ee43e} {03c7e220-0eaa-41c2-a871-2d45b186a376}. I_0
+	name NameText {97c4b74c-3a6a-41d5-8570-7a805c43ea88} {03c7e220-0eaa-41c2-a871-2d45b186a376}. S_ItemData
+	subDeclarations TypedListOfDeclaration {546ed8ad-2d98-41f2-b9a3-5691ee5faa6c} {03c7e220-0eaa-41c2-a871-2d45b186a376}
+		0 NameImport {78848221-83fb-4bad-9d86-397035377fd5} {546ed8ad-2d98-41f2-b9a3-5691ee5faa6c}
+			annotations StatementItemList {83e56a20-187b-4ed7-b1a9-f4705cdeeb3c} {78848221-83fb-4bad-9d86-397035377fd5}
+			importAll Boolean {68df5f60-b4c3-42a9-a15a-78091dd19d38} {78848221-83fb-4bad-9d86-397035377fd5}. I_0
+			importedName ReferenceExpression {55c21c4c-a80d-4876-ac95-0413141a677f} {78848221-83fb-4bad-9d86-397035377fd5}
+				memKind Integer {5097acd2-425c-42d9-835e-d8090f57e160} {55c21c4c-a80d-4876-ac95-0413141a677f}. I_0
+				prefix ReferenceExpression {54e30aea-eeb4-470b-bf03-789d6209e508} {55c21c4c-a80d-4876-ac95-0413141a677f}
+					memKind Integer {595e14b9-bb00-4dc3-809c-baa907217e28} {54e30aea-eeb4-470b-bf03-789d6209e508}. I_0
+					prefix ReferenceExpression {2add6c35-ed39-43d1-9883-30e7b0e01135} {54e30aea-eeb4-470b-bf03-789d6209e508}
+						memKind Integer {a32fc067-9635-487c-ad59-9137aefeaee0} {2add6c35-ed39-43d1-9883-30e7b0e01135}. I_0
+						ref OOReference {8a6e515a-0a38-4488-97a5-4559567dbd3c} {2add6c35-ed39-43d1-9883-30e7b0e01135}. S_____NULL____:java
+						typeArguments TypedListOfExpression {4a4b5bc2-c19b-4a31-8544-943448a45a4c} {2add6c35-ed39-43d1-9883-30e7b0e01135}
+					ref OOReference {96b98c0e-7b4d-4513-bdc2-f6bc3e51904d} {54e30aea-eeb4-470b-bf03-789d6209e508}. S_____NULL____:util
+					typeArguments TypedListOfExpression {d3fd6968-ecfa-409d-9dac-85a55b2b1402} {54e30aea-eeb4-470b-bf03-789d6209e508}
+				ref OOReference {eefd41d6-b8d6-4412-a564-fcafe1c0078b} {55c21c4c-a80d-4876-ac95-0413141a677f}. S_____NULL____:ArrayList
+				typeArguments TypedListOfExpression {f25dca4d-53e2-4296-b184-7fed1ddf0a33} {55c21c4c-a80d-4876-ac95-0413141a677f}
+			metaCalls TypedListOfExpression {40444980-436c-4216-b761-3ab584af4f35} {78848221-83fb-4bad-9d86-397035377fd5}
+			modifiers Modifier {83df09ce-49a4-4c60-bebe-4efeca41fe04} {78848221-83fb-4bad-9d86-397035377fd5}. I_0
+			name NameText {4b83752b-6c2e-48e5-a799-8b3895875374} {78848221-83fb-4bad-9d86-397035377fd5}. S_
+			subDeclarations TypedListOfDeclaration {2e26acbc-2aac-48f6-84f2-3a2f584efdef} {78848221-83fb-4bad-9d86-397035377fd5}
+		1 NameImport {0b186c04-931a-4cd6-bf28-638553f3969b} {546ed8ad-2d98-41f2-b9a3-5691ee5faa6c}
+			annotations StatementItemList {5774c2b8-8d3b-4033-b321-3a040f108211} {0b186c04-931a-4cd6-bf28-638553f3969b}
+			importAll Boolean {c2de6c89-2ce5-4a55-8998-ac5bfb1839ae} {0b186c04-931a-4cd6-bf28-638553f3969b}. I_0
+			importedName ReferenceExpression {de12095c-f4a4-4e20-8b87-1c61d770ab30} {0b186c04-931a-4cd6-bf28-638553f3969b}
+				memKind Integer {8a6dfbf2-8b08-4aa0-af0b-4c58818c797e} {de12095c-f4a4-4e20-8b87-1c61d770ab30}. I_0
+				prefix ReferenceExpression {141c2584-cda1-476a-ae1b-8c17e4665a0e} {de12095c-f4a4-4e20-8b87-1c61d770ab30}
+					memKind Integer {adaa214c-1e51-4ec1-a199-b52862905cc7} {141c2584-cda1-476a-ae1b-8c17e4665a0e}. I_0
+					prefix ReferenceExpression {ba8cc79e-ffd9-455f-9f17-eedbdfeddfe5} {141c2584-cda1-476a-ae1b-8c17e4665a0e}
+						memKind Integer {97643118-8596-4da5-bd03-cc71b810bfc3} {ba8cc79e-ffd9-455f-9f17-eedbdfeddfe5}. I_0
+						ref OOReference {94c32680-ca76-467c-bcbf-db7e8d6dfe9d} {ba8cc79e-ffd9-455f-9f17-eedbdfeddfe5}. S_____NULL____:java
+						typeArguments TypedListOfExpression {fa02ba02-0437-4455-8ab0-b3c27b39c7ba} {ba8cc79e-ffd9-455f-9f17-eedbdfeddfe5}
+					ref OOReference {7aebc13e-aea4-4804-8f0a-27428cf9c32b} {141c2584-cda1-476a-ae1b-8c17e4665a0e}. S_____NULL____:util
+					typeArguments TypedListOfExpression {3b0db320-8306-436c-b413-27f1b9f7f617} {141c2584-cda1-476a-ae1b-8c17e4665a0e}
+				ref OOReference {9b47fa70-3d24-4a81-adf0-f637c6a28f0c} {de12095c-f4a4-4e20-8b87-1c61d770ab30}. S_____NULL____:List
+				typeArguments TypedListOfExpression {1aeb720d-da09-492b-a798-3f7ff165d10d} {de12095c-f4a4-4e20-8b87-1c61d770ab30}
+			metaCalls TypedListOfExpression {7f6f0a32-fbf3-479d-92b9-baeed965c857} {0b186c04-931a-4cd6-bf28-638553f3969b}
+			modifiers Modifier {1e4674bd-db77-4622-a2a9-f9c9d5a4d387} {0b186c04-931a-4cd6-bf28-638553f3969b}. I_0
+			name NameText {dd0a2ff9-3a6a-44ff-8bcb-4f0f62f46c8c} {0b186c04-931a-4cd6-bf28-638553f3969b}. S_
+			subDeclarations TypedListOfDeclaration {ef91c99b-28f4-477b-8cad-dc15905e27bd} {0b186c04-931a-4cd6-bf28-638553f3969b}
+	typeArguments TypedListOfFormalTypeArgument {1984348b-4bcc-4b8b-8f6d-80ddbb2babd8} {03c7e220-0eaa-41c2-a871-2d45b186a376}
